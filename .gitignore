@@ -1,0 +1,6 @@
+/out
+/lib/mysql-connector-*.jar
+*.class
+.idea/
+*.iml
+.DS_Store
